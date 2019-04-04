@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名： 谈政扬
+#### 学历： 本科
+#### 学校： 大连大学信息学院通信工程
+#### 邮箱： tzy1995812@163.com
+#### 电话： 15041199627
+#### 民族： 汉族
 
-You can use the [editor on GitHub](https://github.com/tanzhengyang/tanzy.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 工作经历
+- 2017.11-至今 加优科技有限公司
+- 2017.02-2017-05 沈阳电信工程局（实习）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 项目经历
+- 2017.01-2018-04 智慧园区系统
+- 2018.04-2018-10 企业网盘项目
+- 2018.05-2018.08 担当考勤项目
+- 2018.10-2019.02 担当云盘项目
+- 2019.01-2019.03 企业网盘二期项目
+- 2019.03-至今    担当任务管理系统
+- 2019.03-至今    担当后台管理项目 
 
-### Markdown
+### 教育经历
+- 2013.09-2017.07 大连大学
+- 2010.09-2013.06 乌鲁木齐市第一中学
+- 2007.09-2010.06 乌鲁木齐市92中
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanzhengyang/tanzy.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人评价
+本人是一个乐于学习，乐于探索的人，在工作上能够吃苦耐劳，能够吸收新事物，工作中能够积极融入团队中。
